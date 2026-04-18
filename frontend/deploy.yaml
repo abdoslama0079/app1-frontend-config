@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: 
+          image: abdoslama007/arg:v1
           ports:
             - containerPort: 4000
           env:
